@@ -1,5 +1,4 @@
 # p10k-config
-My Personal PowerLevel10K Config
 This Repo is for PowerLevel10K config (TJ Style)
 
 # How it looks
