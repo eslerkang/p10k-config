@@ -1,5 +1,6 @@
 # p10k-config
-This Repo is for PowerLevel10K config (TJ Style)
+This Repo is for PowerLevel10K config (TJ Style)<br/>
+For [PowerLevel10K](https://github.com/romkatv/powerlevel10k)
 
 # How it looks
 ![캡처](https://user-images.githubusercontent.com/31269150/156686016-cde12dd3-2830-4970-a999-9e1b914ad262.PNG)
